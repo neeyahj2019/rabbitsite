@@ -1,0 +1,39 @@
+#song{
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+#brown{
+    color:brown;
+}
+#everything{
+    background-color:yellow;
+}
+
+.first{
+    color:green;
+}
+
+.para{
+    color:red;
+}
+
+.third{
+    color:blue;
+}
+
+.points{
+    color:cyan;
+}
+
+.order{
+    color:indigo;
+}
+.second{
+    background-color: yellow;
+}
+
+a:hover{
+    background-color:yellow;
+} 
